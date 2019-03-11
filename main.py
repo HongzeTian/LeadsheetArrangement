@@ -7,7 +7,7 @@ import scipy.misc
 import numpy as np
 import tensorflow as tf
 from pprint import pprint
-import SharedArray as sa
+#import SharedArray as sa
 
 from model.core import *
 from model.components import *
